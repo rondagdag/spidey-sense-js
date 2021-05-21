@@ -1,0 +1,21 @@
+{
+  "name": "spide-sense-js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@azure/ai-anomaly-detector": "^3.0.0-beta.3",
+    "@azure/ms-rest-js": "^2.5.0",
+    "csv-parse": "^4.15.4",
+    "dotenv": "^9.0.2",
+    "node-sense-hat": "^0.0.2",
+    "stats-analysis": "^2.0.0"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "description": ""
+}
