@@ -8,7 +8,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@azure/ai-anomaly-detector": "^3.0.0-beta.3",
+    "@azure/ai-anomaly-detector": "^3.0.0-beta.5",
     "@azure/ms-rest-js": "^2.5.0",
     "csv-parse": "^4.15.4",
     "dotenv": "^9.0.2",
